@@ -4,7 +4,9 @@
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/1b868b7f-cce9-4dbc-b23f-221a994e6af2/deploy-status)](https://app.netlify.com/projects/fulgur-vividus-sarkor-telecom-weather/deploys)
 
-[Демо](https://fulgur-vividus-sarkor-telecom-weather.netlify.app/)
+<a href="https://fulgur-vividus-sarkor-telecom-weather.netlify.app/" target="_blank">
+    [Демо]
+</a>
 
 ## ‼️ Внимание:
 
