@@ -27,5 +27,5 @@ export function formatDay(dateStr: string): string {
 
 export function capitalizeFirstLetter(value: string): string {
   if (value.length === 0) return "";
-  return value.charAt(0).toUpperCase() + value.slice(1);
+  return value.charAt(0).toUpperCase() + value.slice(1).toLocaleLowerCase();
 }
